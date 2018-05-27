@@ -16,3 +16,11 @@ VALUES
     ('Johnny B Goode', '000241'),
     ('Lets Work', '000450'),
     ('Oh You Pretty Things', '000304');
+
+
+INSERT INTO IMAGES
+    (ORIGINAL_IMAGE, COLORIZED_IMAGE, NOTE)
+
+VALUES
+    ('Lets Work', '000450', 'text'),
+    ('Oh You Pretty Things', '000304', 'text');
